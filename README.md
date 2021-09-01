@@ -1,15 +1,4 @@
-# Sistema de plataforma de cursos online.
-
-
-**Categoría: ** Aplicaciones web.
-
-**Tecnologías utilizadas: **HTML5, CCS3, Bootstrap, Javascript, LocalStorage.
-
-**Cliente: ** Personal.
-
-**Fecha: ** Abril - 2021.
-
-**Descripción: ** 
+# Sistema de plataforma de cursos online
 
 - Login y registro con LocalStorage.
 
@@ -18,9 +7,30 @@
 - Carrito de compras.
 
 
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Despliegue** para conocer como ejecutar el proyecto.
 
 
-<img src="#" width="50%"></img> 
+### Pre-requisitos 📋
+
+- Internet.
+- Navegador web actual.
+
+## Despliegue 📦
+
+[Link](https://sebas1197.github.io/ShoppingCart_Project/)
+
+## Construido con 🛠️
+
+* [HTML5]
+* [CCS3]
+* [Bootstrap]
+* [Javascript]
 
 
-**Autor: ** Sebastián Landázuri G.
+## Autores ✒️
+
+* **Sebastián Landázuri G** - *Trabajo total* - [Portafolio](https://sebas1197.github.io/Sebastian_LG/)
